@@ -1,4 +1,4 @@
-name: 'Deployment Status Update'
+name: 'refrens/deployment-status-update'
 description: 'Updates your Deployment status in GitHub to a desired one'
 author: 'Rostyslav Sotnychenko'
 branding:
